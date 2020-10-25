@@ -28,7 +28,7 @@ O conteúdo planejado inclui uma introdução aos princípios e técnicas de con
 ### Objetivos
 
 O objetivo da disciplina é compreender detalhes do processo de compilação e como aplicar os conceitos em outros contextos.
-A disciplina apresenta conceitos básicos sobre interpretação, análise, e síntese de programas. 
+A disciplina apresenta conceitos básicos sobre interpretação, análise e síntese de programas. 
 
 ### Metodologia
 
